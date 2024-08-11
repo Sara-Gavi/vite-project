@@ -1,5 +1,5 @@
 function App() {
-  return <h1 className="md:text-right text-center ">Holis App</h1>;
+  return <h1 className="text-center md:text-right">Holis App</h1>
 }
 
-export default App;
+export default App
